@@ -67,3 +67,32 @@ li {
 	text-decoration: none;
 	font-size: 14px;
 }
+
+.g_search, .feeling_l {
+	display: inline-block;
+	padding: 10px 16px;
+	background-color: #F2F2F2;
+	font-size: 13px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-right: 2px;
+	margin-left: 2px;
+	border-radius: 2px;
+	text-decoration: none;
+	color: #676767;
+}
+
+.buttons {
+	text-align: center;
+	padding: 30px 20px 30px 20px;
+}
+
+
+
+
+
+
+
+
+
+
