@@ -5,3 +5,23 @@
 	margin-top: 15%;
 	width: 30%;
 }
+
+.topnav .top {
+	list-style-type: none;
+	padding: 8px;
+	background-color: white;
+
+}
+
+li {
+	display: inline;
+}
+
+.top-right {
+	float: right;
+}
+
+.top-right .apps {
+	width: 20px;
+	height:	20px;
+}
