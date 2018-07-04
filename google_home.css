@@ -87,6 +87,11 @@ li {
 	padding: 30px 20px 30px 20px;
 }
 
+.g_search:hover, .feeling_l:hover {
+	border: 1px solid black;
+	color: #222222;
+}
+
 .botnav {
 	margin: 0px;
 	background-color: #F2F2F2;
@@ -114,6 +119,7 @@ li {
 	text-decoration: none;
 	color: #666666;
 }
+
 
 
 
